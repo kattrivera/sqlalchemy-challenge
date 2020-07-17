@@ -5,11 +5,12 @@ Advanced SQL HW
 <hr>
 <ul>
 <li>Precipitation Analysis</li>
-<li>Station Analysis</li>
+<li>Station Analysis</li></ul>
 <br>
 <br>
 <hr>
 
 <h2>Climate App<h2>
 
-<p>Flask API based on the above analysis.</p>
+<ul>
+<li>Flask API based on the above analysis.</li></ul>
