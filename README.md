@@ -1,15 +1,15 @@
 # sqlalchemy-challenge
 Advanced SQL HW
 
-<h1>Climate Analysis and Exploration<h1>
+<h2>Climate Analysis and Exploration<h2>
 <hr>
 <ul>
-<li>Precipitation Analysis<\li>
-<li>Station Analysis<\li>
+<li>Precipitation Analysis</li>
+<li>Station Analysis</li>
 <br>
 <br>
 <hr>
 
-<h1>Climate App<h1>
+<h2>Climate App<h2>
 
-<p>Flask API based on the above analysis.<\p>
+<p>Flask API based on the above analysis.</p>
